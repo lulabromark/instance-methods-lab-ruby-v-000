@@ -7,5 +7,5 @@ class Dog
   def sit
     puts "The dpg is sitting"
   end
-  
+
 end
